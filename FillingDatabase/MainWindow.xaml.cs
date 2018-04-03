@@ -10,7 +10,7 @@ using MapGen.Model.Database.DbWorker;
 using MapGen.Model.Database.EDM;
 using Point = MapGen.Model.Database.EDM.Point;
 
-namespace FillingDatabase
+namespace FillingDatabase 
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
